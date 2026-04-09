@@ -2,8 +2,8 @@
 # https://telar.org
 
 # Site Settings
-title: "What the Desert Holds: "
-description: "A counter-forensic investigation into environmental racism across California's inland sacrifice zones. Using spatial analysis, satellite data, archival photography, and street-level survey, the project reads the built environment in reverse: as evidence of ninety years of decisions about whose health is expendable, whose community is visible, and whose landscape is permitted to become toxic."
+title: "What the Desert Holds"
+description: "Along the same highway, thirty miles apart, two communities inherit the same desert sky and the same state infrastructure — one with irrigated medians, grocery stores, and sidewalks; the other with a salt flat bearing arsenic and DDT at the edge of residential housing, a permanent sign prohibiting pedestrian movement, and ninety years of decisions that chose this community as the place where the costs of California's agricultural economy would be deposited. What the Desert Holds is a counter-forensic investigation into that choice."
 url: "https://jffobrn.github.io"
 baseurl: "/mojave"
 author: "Jeff O'Brien"
@@ -156,6 +156,7 @@ development-features:
   # Use this when building a site with only custom pages (no stories or objects)
   # (Backward compatible: hide_collections also supported)
   skip_collections: false
+story_key: test
 story_key: test
 story_key: test
 story_key: test
