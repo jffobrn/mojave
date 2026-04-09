@@ -2,12 +2,12 @@
 # https://telar.org
 
 # Site Settings
-title: "Telar"
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a>, the <a href='https://ampl.clair.ucsb.edu/'>UCSB Archives, Memory, and Preservation Lab</a>, and the <a href='https://liberalarts.utexas.edu/history/'>UT Archives, Mapping, and Pedagogy Lab</a>."
+title: "What the Desert Holds: "
+description: "A counter-forensic investigation into environmental racism across California's inland sacrifice zones. Using spatial analysis, satellite data, archival photography, and street-level survey, the project reads the built environment in reverse: as evidence of ninety years of decisions about whose health is expendable, whose community is visible, and whose landscape is permitted to become toxic."
 url: "https://jffobrn.github.io"
 baseurl: "/mojave"
-author: ""
-email: ""
+author: "Jeff O'Brien"
+email: "jeffobrien@ucsb.edu"
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
 logo: ""
 telar_language: "en" # Options: "en" (English), "es" (Español)
@@ -156,3 +156,4 @@ development-features:
   # Use this when building a site with only custom pages (no stories or objects)
   # (Backward compatible: hide_collections also supported)
   skip_collections: false
+story_key: test
